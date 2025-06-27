@@ -1,4 +1,4 @@
-# 📚 Online Bookstore SQL Analysis
+# 📚 ShelfScape-A-SQL-Powered-Journey-into-Customer-Inventory-Trends
 
 This project involves building a SQL database for an online bookstore and performing analytical queries to derive meaningful business insights.
 
